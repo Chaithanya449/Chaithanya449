@@ -1,53 +1,84 @@
-# Hi there, I'm Chaithanya! 👋
+# 👋 Hi there, I'm Chaitanya Krishna (CK)
 
-### 📊 Data Science & Generative AI Aspirant 
-I am passionate and dedicated to **solving real-world problems** through data-driven solutions. I specialize in building **RAG applications** and working with Large Language Models (LLMs).
+📊 **Focused on Data Science, LLMs, and Generative AI Systems**
 
----
+🤖 Focused on building intelligent systems using **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and data-driven techniques.
 
-### 🔭 My Focus
-- 🔭 I’m currently working on: **RAG (Retrieval-Augmented Generation) Systems**
-- 🌱 I’m currently learning: **Advanced GenAI, Prompt Engineering, and Vector Databases**
-- ⚡ Passionate about: **Solving complex real-world problems using AI**
-- 📫 How to reach me: **[ckems9002@gmail.com]**
+I am deeply passionate about **continuous learning and hands-on experimentation**, consistently improving my skills by building, analyzing, and refining AI systems that solve real-world problems.
 
 ---
 
-### 💻 Tech Stack
+## 🔭 What I’m Focused On
+- Designing and understanding **RAG (Retrieval-Augmented Generation) pipelines**
+- Working with **Large Language Models (LLMs)**
+- Applying **prompt engineering** for reliable AI behavior
+- Exploring **vector databases and semantic search**
+- Strengthening **machine learning and data science fundamentals**
 
-**Generative AI & LLMs:**
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/chain.png" alt="langchain" width="40" height="40"/> 
-  </p>
+---
 
-**Data Science & Machine Learning:**
+## 🌱 Continuous Learning Areas
+- Advanced Generative AI workflows  
+- LLM reasoning and optimization techniques  
+- Embeddings & vector search architectures  
+- Applied statistics and ML for intelligent systems  
+
+---
+
+## 💻 Tech Stack & Tools
+
+### 🤖 Generative AI & LLM Ecosystem
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-icon.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="65"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
+### 🧠 Data Science & Machine Learning
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Chaithanya449&show_icons=true&theme=radical" alt="Chaithanya's GitHub Stats" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="65"/>
 </p>
 
+---
+
+### 🗄️ Databases
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaithanya449&theme=radical" alt="Chaithanya's Streak Stats" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="65"/>
 </p>
 
 ---
 
-### 🌐 Socials:
+### ⚙️ Development & Tools
 <p align="left">
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65"/>
 </p>
 
 ---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaithanya449&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=Chaithanya449&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+📧 Email: **ckems9002@gmail.com**  
+💼 LinkedIn: *(https://www.linkedin.com/in/chaitanyakrishna-profile/)*  
+
+---
+
+> *“Consistency compounds faster than talent.”*
+
