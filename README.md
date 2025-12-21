@@ -27,7 +27,7 @@ I am deeply passionate about **continuous learning and hands-on experimentation*
 
 💻 Tech Stack & Tools
 🤖 Generative AI & LLM Ecosystem
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" title="Python"/> <img src="https://img.icons8.com/fluency/96/openai.png" width="65" title="OpenAI"/> <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="65" title="Generative AI"/> <img src="https://img.icons8.com/fluency/96/workflow.png" width="65" title="LangChain"/> </p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" title="Python"/> <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="65" title="Generative AI"/> <img src="https://img.icons8.com/fluency/96/workflow.png" width="65" title="LangChain"/> </p>
 
 ---
 
@@ -36,7 +36,8 @@ I am deeply passionate about **continuous learning and hands-on experimentation*
 ---
 
 📊 Data Analysis & Visualization
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="65" title="Matplotlib"/> <img src="https://img.icons8.com/color/96/seaborn.png" width="65" title="Seaborn"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="65" title="Plotly"/> <img src="https://img.icons8.com/color/96/power-bi.png" width="65" title="Power BI"/> <img src="https://img.icons8.com/color/96/tableau-software.png" width="65" title="Tableau"/> </p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="65" title="Matplotlib"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="65" title="Plotly"/> <img src="https://img.icons8.com/color/96/power-bi.png" width="65" title="Power BI"/> <img src="https://img.icons8.com/color/96/tableau-software.png" width="65" title="Tableau"/> </p>
 
 ---
 🗄️ Databases & Data Handling
