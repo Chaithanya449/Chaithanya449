@@ -43,6 +43,8 @@ I am deeply passionate about **continuous learning and hands-on experimentation*
 🗄️ Databases & Data Handling
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" title="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="65" title="SQLite"/> </p>
 ---
+
+⚙️ Development, Deployment & Workflow
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" title="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65" title="Jupyter Notebook"/> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="65" title="Streamlit"/> </p>
 
 
