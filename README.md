@@ -1,68 +1,76 @@
-# 👋 Hi there, I'm Chaitanya Krishna (CK)
+# Chaitanya Krishna (CK)
+### Machine Learning Engineer · Data Scientist · AI Systems
 
-📊 **Focused on Data Science, LLMs, and Generative AI Systems**
-
-🤖 Focused on building intelligent systems using **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and data-driven techniques.
-
-I am deeply passionate about **continuous learning and hands-on experimentation**, consistently improving my skills by building, analyzing, and refining AI systems that solve real-world problems.
+I build data-driven systems using Machine Learning, statistical modeling, and modern AI techniques. My focus is on developing practical ML solutions, understanding the mathematical foundations behind models, and applying data science to solve real-world problems.
 
 ---
 
-## 🔭 What I’m Focused On
-- Designing and understanding **RAG (Retrieval-Augmented Generation) pipelines**
-- Working with **Large Language Models (LLMs)**
-- Applying **prompt engineering** for reliable AI behavior
-- Exploring **vector databases and semantic search**
-- Strengthening **machine learning and data science fundamentals**
+## Currently Building
+
+- **Heart Disease Prediction System** — end-to-end ML pipeline on CDC BRFSS 2022 dataset (445K records), benchmarking multiple models with full evaluation metrics
+- **VIDYAVAHINI** at Vrittify AI — an AI-powered rural teaching assistant built using RAG pipelines, Pinecone vector database, and LLMs
+- Strengthening ML foundations through applied projects in statistics, model evaluation, and feature engineering
 
 ---
 
-## 🌱 Continuous Learning Areas
-- Advanced Generative AI workflows  
-- LLM reasoning and optimization techniques  
-- Embeddings & vector search architectures  
-- Applied statistics and ML for intelligent systems  
+## Featured Projects
+
+| Project | What it does | Key Result |
+|---------|-------------|------------|
+| [Heart Disease Prediction](https://github.com/Chaithanya449/heart-disease-prediction) | 7-model benchmark on clinical data | Logistic Regression — 83.5% accuracy |
+| [Anime Data Analysis](https://github.com/Chaithanya449/Anime-data-analysis) | EDA on 12K MAL titles | Rating ≥ 8 is the popularity tipping point |
+| [Market Basket Analysis](https://github.com/Chaithanya449/Market-Basket-Analysis) | Apriori algorithm on 7,500 transactions | Association rules with lift > 3 |
+| [Toyota Corolla Price Prediction](https://github.com/Chaithanya449/toyota-corolla-price-prediction) | Multiple Linear Regression + Ridge + Lasso | R² = 0.87 on 1,436 records |
+| [Airline Passenger Segmentation](https://github.com/Chaithanya449/Airline-Passenger-Segmentation) | K-Means · Hierarchical · DBSCAN | 4 distinct customer segments identified |
+| [Animal Type Prediction](https://github.com/Chaithanya449/Animal-Type-prediction-) | KNN with elbow curve tuning | ~95% accuracy, k=3 optimal |
+| [Wine Clustering + PCA](https://github.com/Chaithanya449/wine-clustering-pca-experiment) | PCA dimensionality reduction vs full-feature clustering | ARI 0.897 on original features vs 0.352 on PCA |
+| [Glass Type Prediction](https://github.com/Chaithanya449/Glass-Type-Prediction-using-Machine-Learning) | 7 ensemble models benchmarked | Bagging + Gradient Boosting — 86% |
 
 ---
 
-💻 Tech Stack & Tools
-🤖 Generative AI & LLM Ecosystem
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" title="Python"/> <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="65" title="Generative AI"/> <img src="https://img.icons8.com/fluency/96/workflow.png" width="65" title="LangChain"/> </p>
+## Experience
+
+**AI/ML Intern — Vrittify AI**
+Building **VIDYAVAHINI**, an AI-powered rural teaching assistant. Core work involves RAG pipeline development, Pinecone vector database integration, and LLM-based response generation for low-resource educational environments.
 
 ---
 
-🧠 Data Science & Machine Learning
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" title="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65" title="NumPy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="65" title="Scikit-learn"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="65" title="TensorFlow"/> </p>
+## Tech Stack
+
+**ML & Data Science**
+Python · Pandas · NumPy · Scikit-learn · XGBoost · LightGBM · CatBoost
+
+**AI & LLM Ecosystem**
+LangChain · Pinecone · RAG Pipelines · Prompt Engineering
+
+**Visualization**
+Matplotlib · Seaborn
+
+**Databases**
+MySQL · PostgreSQL
+
+**Dev Tools**
+Git · GitHub · VS Code · Jupyter Notebook · Streamlit
+
 ---
 
-📊 Data Analysis & Visualization
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="65" title="Matplotlib"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="65" title="Plotly"/> <img src="https://img.icons8.com/color/96/power-bi.png" width="65" title="Power BI"/> <img src="https://img.icons8.com/color/96/tableau-software.png" width="65" title="Tableau"/> </p>
+## GitHub Stats
 
----
-🗄️ Databases & Data Handling
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" title="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="65" title="SQLite"/> </p>
----
-
-⚙️ Development, Deployment & Workflow
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" title="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65" title="Jupyter Notebook"/> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="65" title="Streamlit"/> </p>
-
-
-## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaithanya449&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Chaithanya449&theme=tokyonight)
 
 ---
 
-## 🌐 Connect With Me
-📧 Email: **ckems9002@gmail.com**  
-💼 LinkedIn: *(https://www.linkedin.com/in/chaitanyakrishna-profile/)*  
+## Connect
+
+📧 ckems9002@gmail.com
+💼 [linkedin.com/in/chaitanyakrishna-profile](https://www.linkedin.com/in/chaitanyakrishna-profile/)
 
 ---
 
-> *“Consistency compounds faster than talent.”*
-
+*"Consistency compounds faster than talent."*
