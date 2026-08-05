@@ -1,76 +1,84 @@
 # Chaitanya Krishna (CK)
-### Machine Learning Engineer · Data Scientist · AI Systems
 
-I build data-driven systems using Machine Learning, statistical modeling, and modern AI techniques. My focus is on developing practical ML solutions, understanding the mathematical foundations behind models, and applying data science to solve real-world problems.
+### Building Data Science, Machine Learning & Generative AI Solutions
 
----
+I build end-to-end Data Science, Machine Learning, and Generative AI applications that solve real-world business problems. My work combines statistical analysis, SQL analytics, predictive modeling, recommendation systems, and Retrieval-Augmented Generation (RAG) to transform data into actionable business insights and intelligent applications.
 
-## Currently Building
-
-- **Heart Disease Prediction System** — end-to-end ML pipeline on CDC BRFSS 2022 dataset (445K records), benchmarking multiple models with full evaluation metrics
-- **VIDYAVAHINI** at Vrittify AI — an AI-powered rural teaching assistant built using RAG pipelines, Pinecone vector database, and LLMs
-- Strengthening ML foundations through applied projects in statistics, model evaluation, and feature engineering
+**Particularly interested in:** Data Science · Machine Learning · Generative AI · Recommendation Systems · Predictive Analytics · AI-powered Decision Support
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-| Project | What it does | Key Result |
-|---------|-------------|------------|
-| [Heart Disease Prediction](https://github.com/Chaithanya449/heart-disease-prediction) | 7-model benchmark on clinical data | Logistic Regression — 83.5% accuracy |
-| [Anime Data Analysis](https://github.com/Chaithanya449/Anime-data-analysis) | EDA on 12K MAL titles | Rating ≥ 8 is the popularity tipping point |
-| [Market Basket Analysis](https://github.com/Chaithanya449/Market-Basket-Analysis) | Apriori algorithm on 7,500 transactions | Association rules with lift > 3 |
-| [Toyota Corolla Price Prediction](https://github.com/Chaithanya449/toyota-corolla-price-prediction) | Multiple Linear Regression + Ridge + Lasso | R² = 0.87 on 1,436 records |
-| [Airline Passenger Segmentation](https://github.com/Chaithanya449/Airline-Passenger-Segmentation) | K-Means · Hierarchical · DBSCAN | 4 distinct customer segments identified |
-| [Animal Type Prediction](https://github.com/Chaithanya449/Animal-Type-prediction-) | KNN with elbow curve tuning | ~95% accuracy, k=3 optimal |
-| [Wine Clustering + PCA](https://github.com/Chaithanya449/wine-clustering-pca-experiment) | PCA dimensionality reduction vs full-feature clustering | ARI 0.897 on original features vs 0.352 on PCA |
-| [Glass Type Prediction](https://github.com/Chaithanya449/Glass-Type-Prediction-using-Machine-Learning) | 7 ensemble models benchmarked | Bagging + Gradient Boosting — 86% |
+| Project | Business Problem | Key Result |
+|----------|------------------|------------|
+| 📈 **Retail Revenue Optimization** | Improve business decision-making through analytics and AI | SQL + Statistical Analysis + Tableau + GenAI-powered business storytelling |
+| 🛒 **Product Recommendation System** | Personalized product discovery for e-commerce platforms | Collaborative Filtering + Random Forest + Streamlit deployment |
+| ❤️ **Heart Disease Prediction** | Early cardiovascular risk prediction using large-scale clinical data | End-to-end ML pipeline on **445K+ CDC records**, comprehensive preprocessing, multi-model benchmarking, and **83.5% accuracy** |
+| 📄 **Local RAG PDF Question Answering** | AI-powered document search over private knowledge bases | LangChain + FAISS + Ollama |
+| 🎬 **Intelligent Anime Recommendation Engine** | Personalized anime recommendations based on user preferences | Machine Learning Recommendation Engine |
+| ✈️ **Airline Passenger Segmentation** | Customer segmentation for targeted marketing campaigns | K-Means, Hierarchical Clustering & DBSCAN |
 
 ---
 
-## Experience
+## 💼 Experience
 
-**AI/ML Intern — Vrittify AI**
-Building **VIDYAVAHINI**, an AI-powered rural teaching assistant. Core work involves RAG pipeline development, Pinecone vector database integration, and LLM-based response generation for low-resource educational environments.
+### AI/ML Intern — Vrittify AI
+
+Contributed to **VIDYAVAHINI**, an AI-powered rural teaching assistant.
+
+**Key Contributions**
+
+- Built document ingestion and preprocessing pipelines.
+- Processed and prepared educational documents for Retrieval-Augmented Generation (RAG).
+- Worked with **Pinecone** as the cloud vector database.
+- Worked with **ChromaDB** as the local vector database.
+- Supported document indexing and vector database workflows for semantic retrieval.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-**ML & Data Science**
-Python · Pandas · NumPy · Scikit-learn · XGBoost · LightGBM · CatBoost
+### Data Science & Analytics
 
-**AI & LLM Ecosystem**
-LangChain · Pinecone · RAG Pipelines · Prompt Engineering
+Python · SQL · Pandas · NumPy · PostgreSQL · Tableau · Statistical Analysis · Feature Engineering
 
-**Visualization**
+### Machine Learning
+
+Scikit-learn · XGBoost · LightGBM · CatBoost · Model Evaluation
+
+### Generative AI
+
+LangChain · Ollama · Pinecone · ChromaDB · FAISS · RAG Pipelines
+
+### Deployment
+
+FastAPI · Streamlit
+
+### Visualization
+
 Matplotlib · Seaborn
 
-**Databases**
-MySQL · PostgreSQL
+### Tools
 
-**Dev Tools**
-Git · GitHub · VS Code · Jupyter Notebook · Streamlit
+Git · GitHub · VS Code · Jupyter Notebook
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaithanya449&show_icons=true&theme=tokyonight)
+<!-- GitHub Stats Card -->
 
----
-
-## GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Chaithanya449&theme=tokyonight)
+<!-- GitHub Streak Card -->
 
 ---
 
-## Connect
+## 🤝 Connect
 
-📧 ckems9002@gmail.com
-💼 [linkedin.com/in/chaitanyakrishna-profile](https://www.linkedin.com/in/chaitanyakrishna-profile/)
+📧 **ckems9002@gmail.com**
+
+💼 **LinkedIn:** https://linkedin.com/in/chaitanyakrishna-profile
 
 ---
 
-*"Consistency compounds faster than talent."*
+> *"Consistency compounds faster than talent."*
