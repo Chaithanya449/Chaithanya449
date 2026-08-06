@@ -41,7 +41,7 @@ Contributed to **VIDYAVAHINI**, an AI-powered rural teaching assistant.
 
 ### Data Science & Analytics
 
-Python · SQL · Pandas · NumPy · PostgreSQL · Tableau · Statistical Analysis · Feature Engineering
+Python · Pandas · NumPy · Tableau · Statistical Analysis · Feature Engineering
 
 ### Machine Learning
 
@@ -49,15 +49,18 @@ Scikit-learn · XGBoost · LightGBM · CatBoost · Model Evaluation
 
 ### Generative AI
 
-LangChain · Ollama · Pinecone · ChromaDB · FAISS · RAG Pipelines
+LangChain · Ollama · AI Agents · RAG Pipelines · Pinecone · ChromaDB · FAISS
+
+### Databases
+SQL · PostgreSQL
 
 ### Deployment
 
-FastAPI · Streamlit
+FastAPI · Streamlit · Docker · MLflow · Render
 
 ### Visualization
 
-Matplotlib · Seaborn
+Tableau · Matplotlib · Seaborn
 
 ### Tools
 
